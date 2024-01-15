@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QBROL0UQKM6pPrKW1YPAcZ42ssZsxEjgRNwy7UD6VvmdZK2PgYcoxV6LrMt4CPprELAoVMLLpg9cNAuXBs948w==",
+  "success": true,
+  "projectFilePath": "E:\\NadinSoftTest\\NadinSoft\\WebApi.EndPoint\\WebApi.EndPoint.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pishgaman\\.nuget\\packages\\fsharp.core\\7.0.401\\fsharp.core.7.0.401.nupkg.sha512"
+  ],
+  "logs": []
+}
