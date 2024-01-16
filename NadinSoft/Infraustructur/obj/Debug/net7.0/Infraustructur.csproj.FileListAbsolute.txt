@@ -1,0 +1,11 @@
+E:\NadinSoftTest\NadinSoft\Infraustructur\bin\Debug\net7.0\Infraustructur.deps.json
+E:\NadinSoftTest\NadinSoft\Infraustructur\bin\Debug\net7.0\Infraustructur.dll
+E:\NadinSoftTest\NadinSoft\Infraustructur\bin\Debug\net7.0\Infraustructur.pdb
+E:\NadinSoftTest\NadinSoft\Infraustructur\obj\Debug\net7.0\Infraustructur.GeneratedMSBuildEditorConfig.editorconfig
+E:\NadinSoftTest\NadinSoft\Infraustructur\obj\Debug\net7.0\Infraustructur.AssemblyInfoInputs.cache
+E:\NadinSoftTest\NadinSoft\Infraustructur\obj\Debug\net7.0\Infraustructur.AssemblyInfo.cs
+E:\NadinSoftTest\NadinSoft\Infraustructur\obj\Debug\net7.0\Infraustructur.csproj.CoreCompileInputs.cache
+E:\NadinSoftTest\NadinSoft\Infraustructur\obj\Debug\net7.0\Infraustructur.dll
+E:\NadinSoftTest\NadinSoft\Infraustructur\obj\Debug\net7.0\refint\Infraustructur.dll
+E:\NadinSoftTest\NadinSoft\Infraustructur\obj\Debug\net7.0\Infraustructur.pdb
+E:\NadinSoftTest\NadinSoft\Infraustructur\obj\Debug\net7.0\ref\Infraustructur.dll

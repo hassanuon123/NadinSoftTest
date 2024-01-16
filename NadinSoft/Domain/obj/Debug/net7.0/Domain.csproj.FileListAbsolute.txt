@@ -1,0 +1,12 @@
+E:\NadinSoftTest\NadinSoft\Domain\bin\Debug\net7.0\Domain.deps.json
+E:\NadinSoftTest\NadinSoft\Domain\bin\Debug\net7.0\Domain.dll
+E:\NadinSoftTest\NadinSoft\Domain\bin\Debug\net7.0\Domain.pdb
+E:\NadinSoftTest\NadinSoft\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+E:\NadinSoftTest\NadinSoft\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\NadinSoftTest\NadinSoft\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+E:\NadinSoftTest\NadinSoft\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+E:\NadinSoftTest\NadinSoft\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+E:\NadinSoftTest\NadinSoft\Domain\obj\Debug\net7.0\Domain.dll
+E:\NadinSoftTest\NadinSoft\Domain\obj\Debug\net7.0\refint\Domain.dll
+E:\NadinSoftTest\NadinSoft\Domain\obj\Debug\net7.0\Domain.pdb
+E:\NadinSoftTest\NadinSoft\Domain\obj\Debug\net7.0\ref\Domain.dll
