@@ -92,3 +92,4 @@ E:\NadinSoftTest\NadinSoft\WebApplication1.EndPoint\bin\Debug\net7.0\Persistance
 E:\NadinSoftTest\NadinSoft\WebApplication1.EndPoint\bin\Debug\net7.0\Application.pdb
 E:\NadinSoftTest\NadinSoft\WebApplication1.EndPoint\bin\Debug\net7.0\Domain.pdb
 E:\NadinSoftTest\NadinSoft\WebApplication1.EndPoint\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\NadinSoftTest\NadinSoft\WebApplication1.EndPoint\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
